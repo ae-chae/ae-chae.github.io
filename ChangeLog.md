@@ -7,4 +7,7 @@
 - [x] search-console
 
 ### 0.3.0
-- [ ] NAVER searchadvisor
+- [x] NAVER searchadvisor
+
+### 0.4.0
+- [ ] [SEO NAVER](https://github.com/ae-chae/ae-chae.github.io/issues/8)
