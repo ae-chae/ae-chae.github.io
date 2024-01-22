@@ -1,0 +1,11 @@
+{
+  "hosting": {
+	  "site": "ae-chae-dev",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
