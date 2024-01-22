@@ -13,4 +13,7 @@
 - [x] [SEO NAVER](https://github.com/ae-chae/ae-chae.github.io/issues/8)
 
 ### 0.5.0
-- [ ] firebase
+- [x] firebase
+
+### 0.6.0
+- [ ] study css
