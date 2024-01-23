@@ -11,7 +11,7 @@ class Food {
 		console.log(this.brands.join(', '));
 	}
 }
-
+ 
 var pizza = new Food('피자');
 
 pizza.addBrand('피자헛');
